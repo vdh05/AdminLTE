@@ -5,7 +5,7 @@ function convertPathToHtml(path) {
     count++
     path = path.slice(3)
   }
-
+//this is the js file
   if (count === 2) {
     htmlPath = '.'
   }
